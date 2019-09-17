@@ -2,9 +2,11 @@
 
 
 def countdown
-  x = 12
-  while x = 12
-  puts "HAPPY NEW YEAR!"
+  x = 10
+
   x -= 1
+  #while x = 12
+  #puts "HAPPY NEW YEAR!"
+  
   end
 end
