@@ -3,7 +3,7 @@
 
 def countdown
   
-  until number == 0
+ while number == 0
   puts "#{number} SECOND(S)!"
   number -= 1
   #while x = 12
